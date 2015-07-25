@@ -1,6 +1,6 @@
 ## Synopsis
 
-This project extends the django-xadmin demo_app with a simple RSS feed reader widget. 
+This project extends the [django-xadmin](https://github.com/sshwsfc/django-xadmin) demo_app with a simple RSS feed reader widget. 
 
 ## Motivation
 
