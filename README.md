@@ -8,6 +8,11 @@ Tinkering around while I try to learn some python/django...
 
 ## Run the demo locally
 
+1. Item 1
+2. Item 2
+3. Item 3
+
+
 1. Create a directory and copy/clone the content of this repository into it.
 ```
 mkdir demo_app
