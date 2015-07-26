@@ -8,29 +8,24 @@ Tinkering around while I try to learn some python/django...
 
 ## Run the demo locally
 
-1. Item 1
-2. Item 2
-3. Item 3
-
-
-1. Create a directory and copy/clone the content of this repository into it.
-```
-mkdir demo_app
-cd demo_app
-git clone https://github.com/zwollander/django-xadmin-rss.git
-``` 
+1. Create a directory and copy/clone the content of this repository into it
+	```
+	mkdir demo_app
+	cd demo_app
+	git clone https://github.com/zwollander/django-xadmin-rss.git
+	``` 
 2. Install django-xadmin
-```
-pip install django-xadmin
-```
+	```
+	pip install django-xadmin
+	```
 3. Sync the database (you will be prompted to create a superuser also)
-```
-./manage.py syncdb
-```
+	```
+	./manage.py syncdb
+	```
 4. Run the web server
-```
-./manage.py runserver
-```
+	```
+	./manage.py runserver
+	```
 5. Open [http://localhost:8000/xadmin/](http://localhost:8000/xadmin/) in your browser. Log in with the superuser you created. Now you can add the new widget (type **rssfeedreader**) to your admin page.
 
 
